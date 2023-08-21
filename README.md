@@ -1,6 +1,6 @@
 # R0 manuscript materials
 
-This repository contains the BEAST 2 XML file and R scripts associated with the manuscript "Genetic insights of H9N2 avian influenza viruses in Mali and phylogeographic patterns in northern and western Africa".
+This repository contains the BEAST 1 XML file and R scripts associated with the manuscript "Genetic insights of H9N2 avian influenza viruses in Mali and phylogeographic patterns in northern and western Africa".
 
 The files are organized as follows:
 
